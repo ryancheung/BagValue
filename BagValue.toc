@@ -1,6 +1,6 @@
 ## Interface: 11505
 ## Title: BagValue
-## Notes: Shows the total vendor value of all bag items with customization.
+## Notes: Shows the total vendor/auction value of all bag items with customization.
 ## Author: Mackapar
 ## Dependencies: Auctionator
 ## Version: 1.4.0
