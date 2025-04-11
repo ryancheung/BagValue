@@ -1,0 +1,9 @@
+## Interface: 11505
+## Title: BagValue
+## Notes: Shows the total vendor value of all bag items with customization.
+## Author: Mackapar
+## Dependencies: Auctionator
+## Version: 1.3.0
+## SavedVariables: BagValue_SavedVars
+
+BagValue.lua
